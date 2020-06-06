@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c68eb5-7cee-4c21-8a30-4d95113b93e8" name="Default" comment="" />
+    <list default="true" id="48c68eb5-7cee-4c21-8a30-4d95113b93e8" name="Default" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cxcXZctaXO6iLV2x3heAw0FNxU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -148,9 +152,25 @@
       <option name="presentableId" value="Default" />
       <updated>1586253795497</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1591480384207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591480384207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="487" y="126" key="FileChooserDialogImpl" timestamp="1591480179501">
+      <screen x="55" y="24" width="1311" height="744" />
+    </state>
+    <state x="487" y="126" key="FileChooserDialogImpl/55.24.1311.744@55.24.1311.744" timestamp="1591480179501" />
     <state x="547" y="283" key="Github.ShareDialog" timestamp="1591480063849">
       <screen x="55" y="24" width="1311" height="744" />
     </state>
@@ -171,6 +191,18 @@
       <screen x="55" y="24" width="1311" height="744" />
     </state>
     <state width="1265" height="302" key="GridCell.Tab.0.right/55.24.1311.744@55.24.1311.744" timestamp="1591474365780" />
+    <state x="310" y="119" key="Vcs.Push.Dialog.v2" timestamp="1591480517338">
+      <screen x="55" y="24" width="1311" height="744" />
+    </state>
+    <state x="310" y="119" key="Vcs.Push.Dialog.v2/55.24.1311.744@55.24.1311.744" timestamp="1591480517338" />
+    <state x="155" y="96" width="1111" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591480518047">
+      <screen x="55" y="24" width="1311" height="744" />
+    </state>
+    <state x="155" y="96" width="1111" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog/55.24.1311.744@55.24.1311.744" timestamp="1591480518047" />
+    <state x="453" y="283" key="git4idea.ui.GitStashDialog" timestamp="1591480327459">
+      <screen x="55" y="24" width="1311" height="744" />
+    </state>
+    <state x="453" y="283" key="git4idea.ui.GitStashDialog/55.24.1311.744@55.24.1311.744" timestamp="1591480327459" />
     <state x="440" y="311" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591473829461">
       <screen x="55" y="24" width="1311" height="744" />
     </state>
